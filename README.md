@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fzwartbol
-- 👀 I’m interested in Java and SpringBoot
-- 🌱 I’m currently learning Java & JS.
+- 👀 I’m interested in Java, SpringBoot and NEXTJs
+- 🌱 I’m currently learning Java & TS.
 
 <!---
 fzwartbol/fzwartbol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
